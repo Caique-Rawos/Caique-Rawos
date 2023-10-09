@@ -28,6 +28,15 @@
     <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=Caique-Rawos&theme=radical&no-bg=true&column=-1&margin-w=15&margin-h=15">
 </p>
 
+
+<details open>
+  <summary><h2>Watch my Coding Activity</h2></summary>
+
+  <p align="center">
+    <img  width="95%" height="500" title="Coding Activity Graph" src="https://wakatime.com/share/@018b0ba8-2f07-4f66-b8b2-db6f905b6788/5b5ce4f0-c08c-42c6-ac30-07d01bdf6177.svg">
+  </p>
+</details>
+
 ##
 
   ```yaml
