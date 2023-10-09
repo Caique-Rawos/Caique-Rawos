@@ -111,6 +111,15 @@
 
 ##
 
+
+<details open>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+
+  <p align="center">
+    <img title="🐍 Snake contributions" src="https://github.com/Caique-Rawos/Caique-Rawos/blob/output/github-contribution-grid-snake-dark.svg">
+  </p>
+</details>
+
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
