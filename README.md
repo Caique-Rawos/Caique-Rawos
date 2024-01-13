@@ -42,7 +42,7 @@
   ```yaml
   name: Caique Caires Ramos
   located_in: Limeira, São Paulo (Brazil)
-  job: Looking
+  job: VR Software
   education: ["Computer Engineering": "Univesp", "System Developing": "Cotil - Unicamp"]
 
   fields_of_interests: ["Web Development", "JAVA Development", "Software Development", "Server-Side Programming"]
