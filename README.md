@@ -57,13 +57,13 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/Caique-Rawos/GerenciadorDeTarefas">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GerenciadorDeTarefas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=Projeto-VR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/Caique-Rawos/GGWP-Store">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GGWP-Store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/Caique-Rawos/ERP_Agenda">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=ERP_Agenda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=MyBusiness-Sales-Manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
     </p>
     <a href="https://github.com/Caique-Rawos?tab=repositories">
