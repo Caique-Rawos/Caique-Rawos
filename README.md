@@ -137,7 +137,7 @@ I enjoy understanding complex systems, solving technical problems, and continuou
   <a href="https://www.linkedin.com/in/caique-ramos-55297a208/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+ <a href="https://www.instagram.com/caique_rawos/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-21FFE1?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
   <a href="mailto:caique.rawos@gmail.com">
