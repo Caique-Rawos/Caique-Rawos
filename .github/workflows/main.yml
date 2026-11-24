@@ -1,29 +1,33 @@
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "* */7 * * *" 
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
-  
+
   push:
     branches:
-    - main
-    
+      - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+    permissions:
+      contents: write
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Caique-Rawos
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
