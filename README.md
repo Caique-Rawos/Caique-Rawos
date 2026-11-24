@@ -1,141 +1,151 @@
-<!-- ### Hi, I'm Caique Caires Ramos -->
+ <!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
+<!-- Introduction -->
+<h1 align="center">Hi, I'm Caique Caires Ramos 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Caique+Caires+Ramos" alt="Typing SVG" /></a>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+Caique-Rawos;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+studying+Computer+Engineering+at+Univesp;Be+Welcome!)](https://git.io/typing-svg)
+<h3 align="center">Full Stack Software Engineer | Backend & Software Architecture</h3>
 
 <p align="center">
-    <a href="https://github.com/Caique-Rawos?tab=repositories">
-      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Caique-Rawos?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
-    </a>
-    <a href="https://github.com/Caique-Rawos?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Caique-Rawos?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Caique-Rawos&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=21FFE1&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Turning+complex+problems+into+solutions;Backend+%7C+Architecture+%7C+Performance;Based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
 </p>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caique-Rawos&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Caique Caires Ramos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Rawos&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
-</div>
 
 <p align="center">
-    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=Caique-Rawos&theme=radical&no-bg=true&column=-1&margin-w=15&margin-h=15">
+  <a href="https://github.com/Caique-Rawos?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/My%20Repositories-ff0080?style=for-the-badge&logo=repo&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Caique-Rawos?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Caique-Rawos?color=ff0080&label=Followers&style=for-the-badge&logo=person-add&logoColor=white" alt="Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Caique-Rawos&color=ff0080&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
 
+---
 
-<details open>
-  <summary><h2>Watch my Coding Activity</h2></summary>
+## 👨‍💻 About Me
 
-  <p align="center">
-    <img  width="95%" height="500" title="Coding Activity Graph" src="https://wakatime.com/share/@018b0ba8-2f07-4f66-b8b2-db6f905b6788/5b5ce4f0-c08c-42c6-ac30-07d01bdf6177.svg">
-  </p>
-</details>
+I'm a Brazilian Full Stack Software Engineer currently working at **VR Software**, building and improving enterprise applications.
 
-##
+My main focus is backend development, software architecture, system integration, and performance optimization. I also have hands-on experience with frontend development, automated testing, and DevOps practices.
 
-  ```yaml
-  name: Caique Caires Ramos
-  located_in: Limeira, São Paulo (Brazil)
-  job: VR Software
-  education: ["Computer Engineering": "Univesp", "System Developing": "Cotil - Unicamp"]
+I've contributed to international product expansion, including applications for **Paraguay and the United States**, working on scalable solutions and real-world engineering challenges.
 
-  fields_of_interests: ["Web Development", "JAVA Development", "Software Development", "Server-Side Programming"]
-  currently_learning: ["Java", "POO", "Frameworks", "Database Managment", "Clean Code"]
+I enjoy understanding complex systems, solving technical problems, and continuously improving the way software is built and delivered.
 
-  hobbies: ["Chess", "Casual Gaming", "Rubik's Cube"]
-  ```
+---
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Caique-Rawos/GerenciadorDeTarefas">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=Projeto-VR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
-    <a href="https://github.com/Caique-Rawos/GGWP-Store">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GGWP-Store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
-    <a href="https://github.com/Caique-Rawos/ERP_Agenda">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=MyBusiness-Sales-Manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a>
-    </p>
-    <a href="https://github.com/Caique-Rawos?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-</details>
+## 🛠️ Tech Stack
 
+### Backend & Languages
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-  <h3>👨‍💻 Programming Languages</h3>
+### Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-  <p>
-      <a href="https://www.java.com/"><img alt="Java" src="https://staging.shields.io/badge/JAVA-007396?logo=javalogo&color=E95420&logoColor=white"></a>
-      <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>  
-      <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  </p>
+### Testing & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+### AI-Assisted Development
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-21ffe1?style=for-the-badge&logoColor=black"/>
+</p>
 
-  <p>
-      <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-  </p>
+---
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+## 🚀 Professional Highlights
 
-  <p>
-      <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
-  </p>
+- 🌎 Contributed to the international expansion of an enterprise platform into Paraguay and the United States.
+- 🇺🇸 The U.S. release went live with **zero production bugs**.
+- ⚡ Reduced a sales report loading time from approximately **15 seconds to under 1 second** through query optimization and database indexing.
+- 📨 Replaced multiple tightly coupled gRPC calls with RabbitMQ messaging to improve user-facing workflows.
+- 🤖 Built AI agents and automated development workflows for bug analysis, CRUD generation, and repetitive development tasks.
+- 🧪 Work with automated testing, CI/CD, Docker, and production deployment practices.
 
-  <h3>💻 Software and Tools</h3>
+---
 
-  <p>
-      <a href="https://ubuntu.com/"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-ubuntu?logo=Ubuntu&color=E95420&logoColor=white"></a>
-      <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://netbeans.apache.org/"><img alt="Apache Netbeans" src="https://img.shields.io/badge/Apache_Netbeans_IDE-Apache?logo=Apache%20NetBeans&color=1B6AC6&logoColor=white"></a>
-      <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
+## 📊 GitHub Statistics
 
-##
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Caique-Rawos&show_icons=true&hide_border=true&count_private=true&title_color=ff0080&icon_color=21ffe1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Rawos&layout=compact&hide_border=true&title_color=ff0080&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</p>
 
+---
 
-<details open>
-  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+## 📌 Featured Projects
 
-  <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/Caique-Rawos/Caique-Rawos/blob/output/github-contribution-grid-snake-dark.svg">
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/Caique-Rawos/MyBusiness-Sales-Manager">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=MyBusiness-Sales-Manager&theme=react&bg_color=0d1117&title_color=ff0080&text_color=c9d1d9&icon_color=21ffe1&hide_border=true" alt="MyBusiness Sales Manager"/>
+  </a>
+  <a href="https://github.com/Caique-Rawos/Projeto-VR">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=Projeto-VR&theme=react&bg_color=0d1117&title_color=ff0080&text_color=c9d1d9&icon_color=21ffe1&hide_border=true" alt="Projeto VR"/>
+  </a>
+  <a href="https://github.com/Caique-Rawos/GGWP-Store">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GGWP-Store&theme=react&bg_color=0d1117&title_color=ff0080&text_color=c9d1d9&icon_color=21ffe1&hide_border=true" alt="GGWP Store"/>
+  </a>
+</p>
 
-<div>
-  <h3 align="center">🌎 Find me around the web</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/caique-caires-ramos-55297a208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/caique_rawos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caique.rawos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>
-</div>  
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=footer"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Caique-Rawos/Caique-Rawos/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎓 Education
+
+- **Postgraduate Degree in Software Architecture** — Faculdade FACINT
+- **Bachelor's Degree in Computer Engineering** — UNIVESP
+- **Bachelor's Degree in Information Technology** — UNIVESP
+- **Technical Degree in Systems Development** — COTIL / UNICAMP
+
+---
+
+## 🌎 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caique-ramos-55297a208/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:caique.rawos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning, building, and looking for the next engineering challenge.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=100&section=footer"/>
