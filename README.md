@@ -1,7 +1,5 @@
- <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=header"/>
 
-<!-- Introduction -->
 <h1 align="center">Hi, I'm Caique Caires Ramos 👋</h1>
 
 <h3 align="center">Full Stack Software Engineer | Backend & Software Architecture</h3>
@@ -139,6 +137,9 @@ I enjoy understanding complex systems, solving technical problems, and continuou
   <a href="https://www.linkedin.com/in/caique-ramos-55297a208/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+ <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-21FFE1?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
   <a href="mailto:caique.rawos@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
